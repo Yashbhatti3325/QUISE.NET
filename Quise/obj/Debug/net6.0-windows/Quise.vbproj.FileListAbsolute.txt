@@ -1,0 +1,7 @@
+C:\Users\Jay\OneDrive\Desktop\4th\.Net\mini project\Quise\obj\Debug\net6.0-windows\Quise.vbproj.AssemblyReference.cache
+C:\Users\Jay\OneDrive\Desktop\4th\.Net\mini project\Quise\obj\Debug\net6.0-windows\Quise.Quiz_Form.resources
+C:\Users\Jay\OneDrive\Desktop\4th\.Net\mini project\Quise\obj\Debug\net6.0-windows\Quise.vbproj.GenerateResource.cache
+C:\Users\Jay\OneDrive\Desktop\4th\.Net\mini project\Quise\obj\Debug\net6.0-windows\Quise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jay\OneDrive\Desktop\4th\.Net\mini project\Quise\obj\Debug\net6.0-windows\Quise.AssemblyInfoInputs.cache
+C:\Users\Jay\OneDrive\Desktop\4th\.Net\mini project\Quise\obj\Debug\net6.0-windows\Quise.AssemblyInfo.vb
+C:\Users\Jay\OneDrive\Desktop\4th\.Net\mini project\Quise\obj\Debug\net6.0-windows\Quise.vbproj.CoreCompileInputs.cache
